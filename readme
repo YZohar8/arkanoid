@@ -52,7 +52,8 @@ java -cp out/production/ass6:biuoop-1.4.jar Ass6Game 1 2 3
 ```
 
 ### 5. Pause the Game ⏸️
-During gameplay, you can pause the game by pressing the p key. This will stop the game temporarily, and you can resume by pressing p again. ⏯️
+During gameplay, you can pause the game by pressing the **`p`** key. This will stop the game temporarily, and you can resume by pressing **`p`** again. ⏯️
+
 
 ```
 
