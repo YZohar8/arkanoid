@@ -8,7 +8,6 @@ This is a Java-based implementation of the classic **Arkanoid** game. The projec
 - **Pause functionality**: You can pause the game by pressing the **`p`** key during gameplay. ⏸️
 - **Graphics and animations**: The game includes various graphical elements, including a bouncing ball, paddle, blocks, and animations for win/lose conditions. 🎨
 
-![Arkanoid Screenshot](path_to_image.png)  *(Add your image path here)* 📸
 
 ## Prerequisites 🛠️
 Before running the project, ensure that you have the following installed:
@@ -23,18 +22,21 @@ Clone the project to your local machine:
 ```bash
 git clone https://github.com/YZohar8/arkanoid.git
 cd arkanoid
+```
 
 ### 2. Install Java Development Kit ☕
 If you don’t have JDK installed, you can install it using the following command:
 
 ```bash
 sudo apt install default-jdk
+```
 
 ### 3. Compile the Project ⚙️
 Compile the source files into .class files:
 
 ```bash
 javac -cp biuoop-1.4.jar -d out src/**/*.java
+```
 - This command will compile all Java files from the src directory and place the generated .class files into the out directory.
 
 ### 4. Run the Application 🏃‍♂️
@@ -42,10 +44,12 @@ To start the game, run the following command:
 
 ```bash
 java -cp out/production/ass6:biuoop-1.4.jar Ass6Game <level1> <level2> <level3> ....
+```
 Where level1, level2, and level3 represent the sequence of levels you wish to play. For example:
 
 ```bash
 java -cp out/production/ass6:biuoop-1.4.jar Ass6Game 1 2 3
+```
 
 ### 5. Pause the Game ⏸️
 During gameplay, you can pause the game by pressing the p key. This will stop the game temporarily, and you can resume by pressing p again. ⏯️
