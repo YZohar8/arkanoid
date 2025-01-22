@@ -67,16 +67,21 @@ The game features three distinct difficulty levels:
    - Simple block layouts
    - Slower ball speed
    - Perfect for learning the game mechanics
+![צילום מסך 2025-01-22 111423](https://github.com/user-attachments/assets/82ad5a42-5a08-4115-a92b-49cc0fd5ab5a)
+
 
 2. **Level 2 - Intermediate** 🟡
    - More complex block patterns
    - Increased ball speed
    - Additional obstacles
+![צילום מסך 2025-01-22 111443](https://github.com/user-attachments/assets/8a73c42a-47d4-4de4-9c26-750fbdec2ee3)
 
 3. **Level 3 - Advanced** 🔴
    - Challenging block arrangements
    - Maximum ball speed
    - Strategic block placement
+![צילום מסך 2025-01-22 111402](https://github.com/user-attachments/assets/fba1f958-44a9-40c1-8a52-5a21753f51fd)
+  
 
 ## Technical Documentation 📚
 
@@ -91,11 +96,6 @@ The game is built using a modular architecture with the following main component
 ### Dependencies
 - biuoop-1.4.jar: GUI and animation framework
 
-## Resources and Links 🔗
-
-- [GitHub Repository](https://github.com/YZohar8/arkanoid)
-- [Java Documentation](https://docs.oracle.com/en/java/javase/11/)
-- [Report Issues](https://github.com/YZohar8/arkanoid/issues)
-
 ## Contributing 🤝
 Contributions are welcome! Please feel free to submit pull requests or open issues for any bugs or improvements.
+
